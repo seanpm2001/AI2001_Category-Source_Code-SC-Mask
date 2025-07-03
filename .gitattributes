@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Mask source file
+*.mask linguist-detectable=true
+*.mask linguist-documentation=false
+*.mask linguist-language=Mask
 # R source file
 *.r linguist-detectable=true
 *.r linguist-documentation=false
@@ -183,7 +187,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 28th at 03:02 pm PST)
-# Line count (including blank lines and compiler line): 190
+# File version: 6 (2025, Wednesday, July 2nd at 10:58 pm PST)
+# Line count (including blank lines and compiler line): 194
 
 # End of script
